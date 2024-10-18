@@ -17,7 +17,7 @@ The application works perfectly well but needs some adjustment.
 ## Installation requirements
 Git
 ## Demo and live server
- use the following link to take a look at the project ideas(https://docs.google.com/presentation/d/1OR9Jm6PabsYwlaYOE9WXTGpfcJ4h94TVXpQeEhhwYNs/edit?usp=sharing). Follow my project link at (https://github.com/Kichwen651/port3.git)plus my room screen video at (https://www.loom.com/share/5bbdeb480ba84e65b1b3de8c190e2003?sid=d69174ca-cc02-471d-b44b-531b24fa4a63)
+ use the following link to take a look at the project ideas(https://docs.google.com/presentation/d/1OR9Jm6PabsYwlaYOE9WXTGpfcJ4h94TVXpQeEhhwYNs/edit?usp=sharing). Follow my project link at (https://github.com/Kichwen651/port3.git)plus my room screen video at (https://www.loom.com/share/99322f1d054a40e788eb2634bf576030?sid=cc52a1ff-e44e-499b-adb5-fdc05e146064)
  
 
 ## Technologies Used
